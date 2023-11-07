@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.com/JuPinheiru/openbadgeTest/reader-badge.json",
+    "id": "http://jupinheiru.github.io/reader-badge.json",
     "type": "BadgeClass",
     "name": "Reader",
     "description": "Reader of ThejeshGN.",
@@ -8,5 +8,5 @@
     "criteria": "http://thejeshgn.com/subscribe",
     "tags": ["subscriber", "reader"],
     "alignment": [ ],
-    "issuer": "https://github.com/JuPinheiru/openbadgeTest/issuer-organization.json"
+    "issuer": "http://jupinheiru.github.io/issuer-organization.json"
 }
