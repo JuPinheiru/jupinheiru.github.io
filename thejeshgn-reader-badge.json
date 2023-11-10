@@ -6,7 +6,7 @@
     {
         "type": "email",
         "hashed": true,
-        "identity": "sha256$2439c199971e44a07babc5854f5a7fae04028f1c85f492a70bddfa9f55d54130"
+        "identity": "sha256$2d1634b4fd08d558ec2f655ba3bd984be4679692240da92e1ade6b00332595a4"
     },
     "badge": "http://jupinheiru.github.io/reader-badge.json",
     "verification":
