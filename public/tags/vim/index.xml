@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim on Home</title>
+    <link>//localhost:1313/tags/vim/</link>
+    <description>Recent content in Vim on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Julio Pinheiro</copyright>
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 5 Stages of Vim: A Humbling Experience</title>
+      <link>//localhost:1313/posts/vim-humbling/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/vim-humbling/</guid>
+      <description>My journey with vim and a lesson on why it&amp;rsquo;s good to suck at something 💩</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/vim-humbling/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>
