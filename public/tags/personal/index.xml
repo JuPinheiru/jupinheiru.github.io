@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Home</description>
+    <title>Personal on Home</title>
+    <link>//localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Julio Pinheiro</copyright>
-    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>//localhost:1313/posts/hello-world/</link>
+      <link>//localhost:1313/posts/vim-humbling/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/hello-world/</guid>
+      <guid>//localhost:1313/posts/vim-humbling/</guid>
       <description>This is the introductory post of my personal blog, where I share my passion for productivity, technology, and digital transformation, and introduce myself</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/hello-world/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/vim-humbling/feature.png" />
     </item>
     
   </channel>
