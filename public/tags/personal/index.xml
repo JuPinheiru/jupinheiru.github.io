@@ -10,12 +10,12 @@
     <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>//localhost:1313/posts/vim-humbling/</link>
+      <link>//localhost:1313/posts/hello-world/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/vim-humbling/</guid>
+      <guid>//localhost:1313/posts/hello-world/</guid>
       <description>This is the introductory post of my personal blog, where I share my passion for productivity, technology, and digital transformation, and introduce myself</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/vim-humbling/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/hello-world/feature.png" />
     </item>
     
   </channel>
